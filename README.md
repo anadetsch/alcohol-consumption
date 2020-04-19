@@ -52,6 +52,5 @@ Although the frequency of alcohol consumption seams not to influence on failures
 
 ### Links
 
-[Repository] (https://github.com/anadetsch/alcohol-consumption)
-[Trello] (https://trello.com/b/NoDNv79F/project-alcohol-consumption)
-[Public Tableau] (https://public.tableau.com/profile/ana.paula.detsch#!/vizhome/Analysisofalcoholconsumptionfrequencybetweenhighschoolstudents/Acoholconsumptionfromstudents_)
+- [Trello] (https://trello.com/b/NoDNv79F/project-alcohol-consumption)
+- [Tableau Public] (https://public.tableau.com/profile/ana.paula.detsch#!/vizhome/Analysisofalcoholconsumptionfrequencybetweenhighschoolstudents/Acoholconsumptionfromstudents_)
